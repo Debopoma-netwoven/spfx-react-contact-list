@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "contact-list",
+    "libraryId": "d1d5d129-6a67-4a3a-a3c0-51dc0747b012",
+    "environment": "spo"
+  }
+}
